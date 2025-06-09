@@ -1,0 +1,1 @@
+This project investigates the key factors influencing property prices in the Miami real estate market, focusing on elements such as proximity to amenities, property characteristics, age-related depreciation, and seasonal trends.
